@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepali1002, an HR analytics professional
-- 👀 I’m interested in Analytics, reporting & visualization
+- 👀 My role is to understand the workforce data and get meaningfull insights from it using visualization tools.
 - 🌱 I’m currently learning all about analytics including Power BI, SQL, Python, Advanced Excel, Tableau & R 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
